@@ -2,4 +2,5 @@
 
 전처리는 RMS와 MVIC 사용
 
+완성한 UI
 ![image](https://github.com/wkddua/EMG-graph-UI-PyQt/assets/153706116/2ca66cd7-ce61-47e5-ba0c-20f7fcbae769)
